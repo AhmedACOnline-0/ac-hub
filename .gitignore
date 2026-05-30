@@ -1,0 +1,7 @@
+# Crucial to exclude
+.config
+ignoreplease/
+
+# JSON
+backend/
+tok/donotexpose
